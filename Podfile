@@ -20,10 +20,11 @@ target 'iRead' do
   pod 'SCLAlertView'
   pod 'DZNEmptyDataSet'
   pod 'RSBarcodes_Swift', 	:git => 'https://github.com/yeahdongcn/RSBarcodes_Swift.git', :branch => 'Swift-3.0'
-  
   pod 'SnapKit',            '~> 3.0'
   pod 'SwiftyJSON', 		:git => 'https://github.com/appsailor/SwiftyJSON.git', :branch => 'swift3'
   pod 'TextFieldEffects', 	:git => 'https://github.com/raulriera/TextFieldEffects.git', :tag => '1.3.0'
+  
+  # Updated from Martin_Case1 branch.
   
   pod 'Koloda',             :git => 'https://github.com/Yalantis/Koloda.git', :branch => 'swift-3'
   pod 'LTMorphingLabel', 	:git => 'https://github.com/lexrus/LTMorphingLabel.git', :branch => 'swift3'
