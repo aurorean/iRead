@@ -25,6 +25,7 @@ target 'iRead' do
   pod 'TextFieldEffects', 	:git => 'https://github.com/raulriera/TextFieldEffects.git', :tag => '1.3.0'
   
   # Updated from martin_case1 branch.
+  # Add more from martin_case2 branch.
   
   pod 'Koloda',             :git => 'https://github.com/Yalantis/Koloda.git', :branch => 'swift-3'
   pod 'LTMorphingLabel', 	:git => 'https://github.com/lexrus/LTMorphingLabel.git', :branch => 'swift3'
