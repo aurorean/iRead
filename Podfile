@@ -24,6 +24,8 @@ target 'iRead' do
   pod 'SwiftyJSON', 		:git => 'https://github.com/appsailor/SwiftyJSON.git', :branch => 'swift3'
   pod 'TextFieldEffects', 	:git => 'https://github.com/raulriera/TextFieldEffects.git', :tag => '1.3.0'
   
+  # Updated from martin_case1 branch.
+  # Add more from martin_case2 branch.
   # Modified in Central Develop Branch.
   # Modified in Central Develop Branch 2nd time.
   
