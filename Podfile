@@ -29,6 +29,8 @@ target 'iRead' do
   # Modified in Central Develop Branch.
   # Modified in Central Develop Branch 2nd time.
   
+  # Verify PR revert process.
+  
   pod 'Koloda',             :git => 'https://github.com/Yalantis/Koloda.git', :branch => 'swift-3'
   pod 'LTMorphingLabel', 	:git => 'https://github.com/lexrus/LTMorphingLabel.git', :branch => 'swift3'
 
