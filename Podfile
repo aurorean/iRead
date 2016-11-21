@@ -26,8 +26,11 @@ target 'iRead' do
   
   # Updated from martin_case1 branch.
   # Add more from martin_case2 branch.
+  # Modified in Central Develop Branch.
+  # Modified in Central Develop Branch 2nd time.
+
   # Test revert PR.
-    
+
   pod 'Koloda',             :git => 'https://github.com/Yalantis/Koloda.git', :branch => 'swift-3'
   pod 'LTMorphingLabel', 	:git => 'https://github.com/lexrus/LTMorphingLabel.git', :branch => 'swift3'
 
